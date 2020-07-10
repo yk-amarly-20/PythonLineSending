@@ -14,5 +14,6 @@ if __name__ == '__main__':
 
     message = 'hello world'
     image = './11195179127721.jpg'
+    # image = None
 
     main(token, message, image)
